@@ -7,6 +7,6 @@ En México ocho de cada nueve equipos electrónicos se convierten en basura que 
 
 Debido a lo antes mencionado se plantea la creación de un sitio web  que tenga como fin ayudar al medio ambiente.
 
-El principal objetivo del sitio web  será poder  brindar el servicio de recolección de basura electrónica hasta el  domicilio del usuario, el cual desea deshacerse de su basura electrónica  tales como computadoras obsoletas, no breaks, tarjetas con circuitos electrónicos, cables de cobre, así como cualquier otro electrónico viejo u obsoleto.
+Se desarrollara un página  landing page en donde el usuario podrá encontrar información acerca de los centros de reciclajes electrónicos en la CDMX tales como su nombre, ubicación, y enlaces a sus sitios web.Se tomara información del sitio web oficial de la SEDEMA de la CDMX  Para publicar las fechas de los próximos reciclatones organizados por el gobierno local.
 
-La basura electrónica recolectada por el  sitio web será trasladada a centros de reciclaje en la CDMX.
+También el sitio web  contará con un apartado de notas informativas  y videos sobre el reciclaje electrónico.Con este tipo de contenido en la página se pretende poder fomentar el reciclaje electrónico en la CDMX.
